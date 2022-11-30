@@ -1,2 +1,2 @@
 # QuarkusWithOkta
-Quarkus application integrated with Kafka.
+Quarkus application integrated with Apache Kafka.
